@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Grocery Shopping",
+      "desc": "Buy vegetables, fruits, and dairy products.",
+      "createdAt": "2024-10-01T10:00:00Z",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "name": "Clean the House",
+      "desc": "Dust, vacuum, and mop the floors.",
+      "createdAt": "2024-10-02T11:30:00Z",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "name": "Finish Homework",
+      "desc": "Complete math and science assignments.",
+      "createdAt": "2024-10-03T15:45:00Z",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "name": "Walk the Dog",
+      "desc": "Take the dog for a 30-minute walk in the park.",
+      "createdAt": "2024-10-04T09:00:00Z",
+      "status": 1
+    },
+    {
+      "id": "5",
+      "name": "Read a Book",
+      "desc": "Finish reading 'The Great Gatsby'.",
+      "createdAt": "2024-10-05T12:00:00Z",
+      "status": 0
+    },
+    {
+      "id": "6",
+      "name": "Pay Utility Bills",
+      "desc": "Ensure all utility bills are paid on time.",
+      "createdAt": "2024-10-05T14:15:00Z",
+      "status": 1
+    },
+    {
+      "id": "7",
+      "name": "Plan Weekend Trip",
+      "desc": "Research and plan activities for the weekend getaway.",
+      "createdAt": "2024-10-06T08:30:00Z",
+      "status": 0
+    }
+  ]
+}
